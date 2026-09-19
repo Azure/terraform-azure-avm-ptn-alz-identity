@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "ALZ Identity",
+  "moduleDescription": "AVM Pattern Module for the ALZ Identity platform subscription, deploying identity virtual networks and hub peerings aligned to the Azure Landing Zones architecture.",
+  "canonicalType": "alz-identity",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.ptn.c2e1be8"
+}
