@@ -4,5 +4,8 @@
   "moduleDescription": "AVM Pattern Module for the ALZ Identity platform subscription, deploying identity virtual networks and hub peerings aligned to the Azure Landing Zones architecture.",
   "canonicalType": "alz-identity",
   "owners": [],
-  "telemetryIdPrefix": "46d3xtrf.ptn.c2e1be8"
+  "telemetryIdPrefix": "46d3xtrf.ptn.c2e1be8",
+  "alternativeNames": [
+    "Azure Landing Zones - Identity"
+  ]
 }
